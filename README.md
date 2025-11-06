@@ -1,4 +1,4 @@
-# HP-Translate
+# HP-Translate 2025-11-06 목요일
 https://jam925.github.io/HP-Translate/
 
 https://jam925.github.io/HP-Translate/pdf.html
