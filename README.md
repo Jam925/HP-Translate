@@ -1,2 +1,4 @@
 # HP-Translate
-히히
+https://jam925.github.io/HP-Translate/
+
+https://jam925.github.io/HP-Translate/pdf.html
